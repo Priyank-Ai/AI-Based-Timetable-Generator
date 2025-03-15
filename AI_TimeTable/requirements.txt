@@ -1,6 +1,6 @@
 Dependencies
 1. VS Code
 2. Python IDLE 
-3. Streamlit : open-source Python library
-4. Pandas : library
-5. Random : library
+3. pip install streamlit 
+4. pip install pandas 
+5. pip random 
